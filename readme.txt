@@ -1,1 +1,3 @@
-dicomren.exe+文件夹+newID
+use exe in cmd like
+dicomren.exe foldername newID
+this program will change patient name&ID with newID
