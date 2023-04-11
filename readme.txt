@@ -8,7 +8,7 @@ dicom文件重命名小程序，dcm文件可以再子文件夹，无需拷贝到
 文件必须拥有.dcm的后缀，否者不能正常识别
 如果没有.dcm后缀，可以先试用 ren *.* *.dcm进行批量重命名
 
-![image](https://github.com/hzr0071/Anonymize-dicoms/blob/main/dcmfolder/%E6%89%B9%E6%B3%A8%202023-04-11%20100037.png)
+![image](https://raw.githubusercontent.com/hzr0071/Anonymize-dicoms/main/dcmfolder/%E6%89%B9%E6%B3%A8%202023-04-11%20100037.png)
 
 如果使用exe程序需要matlab runtime 2022a，下面是下载地址
 https://ssd.mathworks.cn/supportfiles/downloads/R2022a/Release/0/deployment_files/installer/complete/win64/MATLAB_Runtime_R2022a_win64.zip
